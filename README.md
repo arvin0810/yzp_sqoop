@@ -1,8 +1,8 @@
-#yzp_sqoop
+# yzp_sqoop
 compiled base on sqoop-1.5.0-SNAPSHOT, did some changes for columns mapping/create_table_statement etc.
 
-#changelog
-2020.04.10
+# changelog
+## 2020.04.10
 1. add columns' comment for MySQL & Oracle DB source
 2. map `date`, `datetime`, `timestamp` to STRING type
 3. add `--calculate-rows` option for eval command, which could return total row count of query string

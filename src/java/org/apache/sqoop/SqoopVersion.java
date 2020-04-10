@@ -23,10 +23,10 @@ public class SqoopVersion {
  public SqoopVersion() {
  }
 
- public static final String VERSION="1.5.0-meicloud";
- public static final String GIT_HASH="cee4ab15c729e213e622f8f91674a480aca6bd49";
+ public static final String VERSION="1.5.0-yzp";
+ public static final String GIT_HASH="d7322f96a81ee15efaf4d1abe39f0c05f0386a02";
  public static final String COMPILE_USER="yangzhenpeng";
- public static final String COMPILE_DATE="10-04-2020 10:18:16";
+ public static final String COMPILE_DATE="10-04-2020 14:07:08";
 
  @Override
  public String toString() {

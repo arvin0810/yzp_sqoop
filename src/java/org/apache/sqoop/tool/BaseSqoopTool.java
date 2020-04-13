@@ -113,7 +113,7 @@ public abstract class BaseSqoopTool extends org.apache.sqoop.tool.SqoopTool {
   public static final String FORMATTED_ARG = "formatted";
   // end
   // 20191030 yangzhenpeng add, for eval tool to output the total rows of result set
-  public static final String CALCROWS_ARG = "calculate-rows";
+  public static final String CALCROWS_ARG = "count-rows";
 
   public static final String FMT_SEQUENCEFILE_ARG = "as-sequencefile";
   public static final String FMT_TEXTFILE_ARG = "as-textfile";

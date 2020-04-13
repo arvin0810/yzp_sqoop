@@ -24,9 +24,9 @@ public class SqoopVersion {
  }
 
  public static final String VERSION="1.5.0-yzp";
- public static final String GIT_HASH="d7322f96a81ee15efaf4d1abe39f0c05f0386a02";
+ public static final String GIT_HASH="354eda5e65db35f28322043015c4dc2facb119c5";
  public static final String COMPILE_USER="yangzhenpeng";
- public static final String COMPILE_DATE="10-04-2020 14:07:08";
+ public static final String COMPILE_DATE="13-04-2020 09:08:20";
 
  @Override
  public String toString() {

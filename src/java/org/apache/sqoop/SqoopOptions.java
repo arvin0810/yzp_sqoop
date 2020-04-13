@@ -171,7 +171,7 @@ public class SqoopOptions implements Cloneable {
   // yangzhenpeng 20190823 add
   @StoredAsProperty("formatted") private boolean formatted;
   // yangzhenpeng 20191030 add
-  @StoredAsProperty("calculate-rows") private boolean calcRows;
+  @StoredAsProperty("count-rows") private boolean calcRows;
 
   @StoredAsProperty("temporary.dirRoot") private String tempRootDir;
 
